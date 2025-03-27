@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/books/book-reading-tools/","tags":["articles","web","🗃️"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/reference/books/book-reading-tools/","tags":["articles","web","🗃️","gardenEntry"],"noteIcon":""}
 ---
 
 ## Goodreads![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIcFLUq4FlpO_gz8OPrBQlVDjjHM4AUVvuwsGAa3u19UUseWKK2PdzRwo36hAx2-kblI6QjXpiuBcN01AQCVJGOO8RPN2YA_lRWnBpOGqHHJ4dk6CnjqAYPQWYGVpSEdyXm8Y4YZuEgA2GPzJxBQcQOpZc?key=0s9YhbbgNoKSRLQ798ZC0g)
