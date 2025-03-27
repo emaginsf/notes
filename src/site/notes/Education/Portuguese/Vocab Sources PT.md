@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/portuguese/vocab-sources-pt/","tags":["portuguese","resource","review","language","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/education/portuguese/vocab-sources-pt/","tags":["portuguese","resource","review","language","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ## Anki Decks PT
