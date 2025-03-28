@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media/video-project/","tags":["video","documentary","project","🗃️","relationship","couples","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media/video-project/","tags":["video","documentary","project","🗃️","relationship","couples","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
