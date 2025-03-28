@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media/video-project/","tags":["video","documentary","project","🗃️","relationship","couples","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media/video-project/","tags":["video","documentary","project","🗃️","relationship","couples","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -13,8 +13,6 @@
 > 
 > Attention, taken to its highest degree is the same thing as prayer.
 > -- Simone Weil
-
-
 
 ## Concept
 1. [[Media/YT Channel\|YT Channel]]  - International Online Dating, success stories, why it works 2025
@@ -81,7 +79,7 @@
 
 ### Potential Leads
 - [ ] Ana 🇧🇷? - Friends (2x2) met online married #brazil #sweden #survey 
-- [ ] Angelica 🇪🇨? - Married #usa #ecuador #survey
+- [ ] Angelica 🇪🇨? - Married Ok Cupid #usa #ecuador #survey
 - [ ] @Yan Friends 🇻🇪? - #Lithuania #Venezuela #survey
 - [ ] Manor Couple 65🔼 
 ### Experts Advisors
